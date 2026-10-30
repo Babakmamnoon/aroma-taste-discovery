@@ -2,7 +2,7 @@
 
 **AI-driven discovery of aroma and taste molecules: a merged, provenance-tracked structure–odor / structure–taste database and the models built on it.**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/aroma-taste-discovery/blob/main/aroma_taste_FULL_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Babakmamnoon/aroma-taste-discovery/blob/main/aroma_taste_FULL_colab_Run.ipynb)
 
 Public structure–odor data is small, scattered across a dozen sources, and each source speaks its own vocabulary. Most published models train on one of them. This project merges nine aroma sources, two psychophysical panel studies and two taste databases into a single curated database of **9,775 molecules**, then trains and stress-tests models on it the way an industrial team would before trusting them to triage synthesis candidates.
 
